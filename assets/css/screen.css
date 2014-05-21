@@ -1,0 +1,31 @@
+html {
+	font-family: 'Open Sans', sans-serif;
+}
+
+body * {
+	background: rgba(255,228,0,0.1);
+}
+
+body * * {
+	background: rgba(255,228,0,0.2);
+}
+
+body * * * {
+	background: rgba(255,228,0,0.3);
+}
+
+body * * * * {
+	background: rgba(255,228,0,0.4);
+}
+
+body * * * * * {
+	background: rgba(255,228,0,0.5);
+}
+
+
+/* Content Example with floats */
+
+article img {
+	float: left;
+	padding: 0 1em 1em 0;
+}
